@@ -16,6 +16,3 @@ My name is Lukas Neumann and...
  - 2005 Born
  - 2017 Started programing
  - 2021 Making this website
-
-
-<iframe src="https://editor.p5js.org/BlackPhoenix/embed/MJYCklzaQ" width="1000" height="600></iframe> 
