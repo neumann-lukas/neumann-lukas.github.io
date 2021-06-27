@@ -15,8 +15,8 @@ author: Lukas Neumann
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Projects:
+    - Mandelbrot: "mandelbrot"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
