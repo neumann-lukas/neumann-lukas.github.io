@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Whats makes me the right person for whatever your looking for
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lukas Neumann and...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm 16 year old
+- I'm living in Hassia, Germany
+- My passion for Computers started when I was 12 year old
+- I love too develop unnecessary programs
 
-What else do you need?
+### Timeline
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ - 2005 Born
+ - 2017 Started programing
+ - 2021 Making this webside
