@@ -15,7 +15,7 @@ Features & Uses:
   3. Run command `pip install requirements.txt`.
   4. Run the main.py with the folllowing command: `python main.py -c config.json`.
 
-**Usage with GUI:*
+**Usage with GUI:**
   1. Download the whole code or the GUI release.
   2. Run command `pip install requirements.txt`.
   3. Run the GUI.py
