@@ -12,10 +12,12 @@ Features & Uses:
 **Manual installation/usage:**
   1. Download the main.py, clipboard_handeler.py and the config file or extract a manual release.
   2. Edit the config.json with your personal preferences.
-  3. Run the main.py with the folllowing command: `python main.py -c config.json`.
+  3. Run command `pip install requirements.txt`.
+  4. Run the main.py with the folllowing command: `python main.py -c config.json`.
 
 **Usage with GUI:*
   1. Download the whole code or the GUI release.
-  2. Run the GUI.py
+  2. 3. Run command `pip install requirements.txt`.
+  3. Run the GUI.py
   
 The code is available on [GitHub](https://github.com/neumann-lukas/cliparr-py)
