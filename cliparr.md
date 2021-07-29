@@ -17,7 +17,7 @@ Features & Uses:
 
 **Usage with GUI:*
   1. Download the whole code or the GUI release.
-  2. 3. Run command `pip install requirements.txt`.
+  2. Run command `pip install requirements.txt`.
   3. Run the GUI.py
   
 The code is available on [GitHub](https://github.com/neumann-lukas/cliparr-py)
