@@ -16,7 +16,9 @@ author: Lukas Neumann
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Cliparr: "cliparr"
     - Mandelbrot: "mandelbrot"
+    - Spotify-Sync: "spotify"
     - Minecraft-Tilesmod: "tilesmod"
     - Minecraft-MASA: "masa"
 
