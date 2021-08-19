@@ -16,6 +16,7 @@ author: Lukas Neumann
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Reddit-map: "redditmap"
     - Cliparr: "cliparr"
     - Mandelbrot: "mandelbrot"
     - Spotify-Sync: "spotify"
