@@ -15,10 +15,13 @@ author: Lukas Neumann
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Reddit-map: "redditmap"
-    - Cliparr: "cliparr"
+  Visualisations:
+    - Tonga-Eruption: "tonga"
+    - Reddit-Map: "redditmap"
     - Mandelbrot: "mandelbrot"
+    
+  Other:
+    - Cliparr: "cliparr"
     - Spotify-Sync: "spotify"
     - Minecraft-Tilesmod: "tilesmod"
     - Minecraft-MASA: "masa"
