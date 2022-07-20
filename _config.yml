@@ -16,6 +16,8 @@ author: Lukas Neumann
 navbar-links:
   About Me: "aboutme"
   Visualisations:
+    - Abortion vs. Religion: "abortion_vs_religion_scatter"
+    - Play Store Ratings : "google_play_ratings"
     - Tonga-Eruption: "tonga"
     - Reddit-Map: "redditmap"
     - Mandelbrot: "mandelbrot"
