@@ -14,7 +14,7 @@ A visualisation about the influx of religion on people's views on abortion.
 
 **Analysis Tools**:
 
-- [R] (https://www.r-project.org/)
+- [R](https://www.r-project.org/)
 - [Tidyverse](https://www.tidyverse.org/)
 
 **Visualization Tools**:
