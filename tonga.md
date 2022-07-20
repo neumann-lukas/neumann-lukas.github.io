@@ -12,7 +12,7 @@ A small visualisation of the Tonga pressure wave over the US.
 
 **Analysis Tools**:
 
-- [R] (https://www.r-project.org/)
+- [R](https://www.r-project.org/)
 - [Tidyverse](https://www.tidyverse.org/)
 
 **Visualization Tools**:
