@@ -14,7 +14,7 @@ author: Lukas Neumann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "pages/aboutme"
+  About Me: "aboutme"
   Visualisations:
     - Fentanly: "2022-08-21-fentanyl"
     - Abortion vs. Religion: "2022-07-20-abortion_vs_religion_scatter"
