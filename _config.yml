@@ -14,19 +14,19 @@ author: Lukas Neumann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "pages/aboutme"
   Visualisations:
-    - Abortion vs. Religion: "abortion_vs_religion_scatter"
-    - Play Store Ratings : "google_play_ratings"
-    - Tonga-Eruption: "tonga"
-    - Reddit-Map: "redditmap"
-    - Mandelbrot: "mandelbrot"
+    - Fentanly: "2022-08-21-fentanyl_plot_lin"
+    - Abortion vs. Religion: "2022-07-20-abortion_vs_religion_scatter"
+    - Play Store Ratings : "2022-07-20-google_play_ratings"
+    - Tonga-Eruption: "2022-07-17-tonga"
+    - Reddit-Map: "2021-08-19-redditmap"
+    - Mandelbrot: "2021-06-27-mandelbrot"
     
   Other:
-    - Cliparr: "cliparr"
-    - Spotify-Sync: "spotify"
-    - Minecraft-Tilesmod: "tilesmod"
-    - Minecraft-MASA: "masa"
+    - Cliparr: "2021-07-29-cliparr"
+    - Minecraft-Tilesmod: "2021-06-27-tilesmod"
+    - Minecraft-MASA: "2021-06-27-masa"
 
 # --- Logo --- #
 

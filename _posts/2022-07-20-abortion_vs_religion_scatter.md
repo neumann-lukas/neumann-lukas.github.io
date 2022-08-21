@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: post
 title: Abortion vs. Religion
-subtitle: Influx of religion on people's views on abortion.
+subtitle: How does religion influence people's views on abortion?
+thumbnail-img: /assets/img/2022-07-20-abortion_vs_religion_scatter.png
 ---
 
-A visualisation about the influx of religion on people's views on abortion.
+A visualisation about the influx of religion on people's views on abortion. It clearly shows that more religios people are less likely to endorse abortion.
+
+![Result:](/assets/img/2022-07-20-abortion_vs_religion_scatter.png){: .mx-auto.d-block :}
 
 **Data**:
 
@@ -19,9 +22,5 @@ A visualisation about the influx of religion on people's views on abortion.
 
 **Visualization Tools**:
 
-- [ggplot2](https://ggplot2.tidyverse.org/), 
+- [ggplot2](https://ggplot2.tidyverse.org/)
 - [ggthemes](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/)
-
-**Result:**
-  
-![Result:](/assets/img/abortion_vs_religion_scatter.png){: .mx-auto.d-block :}
