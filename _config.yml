@@ -16,7 +16,7 @@ author: Lukas Neumann
 navbar-links:
   About Me: "aboutme"
   Visualisations:
-    - IMdB: "2023-01-29-imdb.md"
+    - IMDb: "2023-01-29-imdb.md"
     - Fentanly: "2022-08-21-fentanyl"
     - Abortion vs. Religion: "2022-07-20-abortion_vs_religion_scatter"
     - Play Store Ratings : "2022-07-20-google_play_ratings"
