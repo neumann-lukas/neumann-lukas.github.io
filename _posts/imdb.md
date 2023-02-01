@@ -1,0 +1,61 @@
+---
+layout: post
+title: ImDB Analysis
+subtitle: How did the movie landscape change over the last 80 Years and how can we visualise the current one it using data?.
+thumbnail-img: /assets/img/2021-08-19-redditmap.png
+---
+
+## Ratings
+First of all we're gonna have a look at the average ratings across various genres. Here I'm using Movies published after 2000 with more then 2000 Votes to get a representative snapshot of the current situation.
+
+![Result:](/assets/img/2023-01-29-imdb_ratings_ridge.png){: .mx-auto.d-block :}
+
+**Takeaways:**
+
+- There are a lot of good and very few bad documentaries
+- The stereotype of the bad horror/sci-fi movies also appears to be true with horror ranking last just below sci-fi
+
+## Runtime
+Next I'll have a closer look at the runtime of our favourite genres. This time I used all the movies published since 1940 across multiple interesting genres. 
+
+![Result:](/assets/img/2023-01-29-imdb_runtime_by_genre_violin.png){: .mx-auto.d-block :}
+
+**Takeaways:**
+
+- Most movies still average around the classic 90-minute mark
+- Action movies often go on for longer while documentaries often last for ~50 to ~90 minutes
+
+## Popularity over Time
+But how exactly has the movie landscape changed since the 1940s especially regarding genres? Here I'll explore the popularity of certain genres over time.
+
+*Note: The percentages may add up to more then 100% since some movies are labeled as more then one genre.*
+
+![Result:](/assets/img/2023-01-29-imdb_year_genre_multiple_fixed.png){: .mx-auto.d-block :}
+![Result:](/assets/img/2023-01-29_imdb_year_pop.png){: .mx-auto.d-block :}
+
+**Takeaways:**
+- As expected crime movies dominated Hollywood until the 70s with almost every second movies being one
+- Since 2000 Documentaries became really popular, almost reaching 40% market share
+- Action Movies became especially popular in the 80s with shows like Terminator or Top Gun
+- Fantasy movies are slowly dying despite being responsible for many huge (event recent) successes (Avatar, Harry Potter, LoTR)
+
+
+## About the Plots
+
+**Data**:
+
+- [IMDb](https://www.imdb.com/interfaces/)
+
+**Analysis Tools**:
+
+- [R](https://www.r-project.org/)
+- [Tidyverse](https://www.tidyverse.org/)
+
+**Visualization Tools**:
+
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [ggthemes](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/)
+- [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+- [ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)
+- [scales](https://scales.r-lib.org/)
+
