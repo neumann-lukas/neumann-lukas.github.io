@@ -6,7 +6,7 @@ subtitle: What makes me special
 
 My name is Lukas Neumann and...
 
-- I'm 17 year old
+- I'm 19 year old
 - I live in Hassia, Germany
 - My passion for computers started when I was 12 year old
 
